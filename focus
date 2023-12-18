@@ -1,0 +1,19 @@
+if want to focus something, that is to make something
+
+
+inside div if we give text, and to avoid the hover border we can give focus,
+
+
+.className:focus{
+
+    outline:none
+}
+
+
+
+
+
+To crop of the text corners, which is out of the div, we can have the style
+
+overflow: hidden;
+
